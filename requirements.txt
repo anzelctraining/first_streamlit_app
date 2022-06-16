@@ -1,0 +1,2 @@
+# requirements text
+snow-connector-python
